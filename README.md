@@ -1,4 +1,6 @@
 # MachineLearning
+# Principal Component Analysis
+
 This notebook explains about Principal component analysis through step by step.
 You can get the principal components by entering the required data as numpy array.
 
